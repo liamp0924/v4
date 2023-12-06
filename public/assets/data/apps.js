@@ -12,12 +12,6 @@ var apps = [
       
     },
     {
-      "id": "discord",
-      "title": "Discord",
-      "url": "https://discord.com/app",
-      'image': 'https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg'
-    },
-    {
       "id": "telegram",
       "title": "Telegram",
       "url": "https://web.telegram.org/a/",
@@ -48,28 +42,10 @@ var apps = [
       'image': 'https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png'
     },
     {
-      "id": "reddit",
-      "title": "Reddit",
-      "url": "https://reddit.com",
-      'image': 'https://www.redditinc.com/assets/images/site/reddit-logo.png'
-    },
-    {
       "id": "youtube",
       "title": "YouTube",
       "url": "https://youtube.com",
       'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YouTube_social_red_square_%282017%29.svg/2048px-YouTube_social_red_square_%282017%29.svg.png'
-    },
-    {
-      "id": "twitter",
-      "title": "Twitter",
-      "url": "https://twitter.com",
-      'image': 'https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png'
-    },
-    {
-      'id': 'spotify',
-      'title': 'Spotify',
-      'url': 'https://open.spotify.com/browse',
-      'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png'
     },
     {
       'id': 'chess',
