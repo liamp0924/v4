@@ -36,12 +36,6 @@ var apps = [
       'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'
     },
     {
-      "id": "tiktok",
-      "title": "TikTok",
-      "url": "https://tiktok.com",
-      'image': 'https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png'
-    },
-    {
       "id": "youtube",
       "title": "YouTube",
       "url": "https://youtube.com",
